@@ -27,7 +27,7 @@ output data in every format.
 This tool is built using some excellent open source components that make
 creating tools like this really easy.
 
-* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)) -- HTML
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) -- HTML
   page scraping
 * [Requests](https://requests.readthedocs.io/en/latest/) -- HTTP for Humans
 * [ruamel.yaml](https://pypi.org/project/ruamel.yaml/) -- YAML reader/writer
