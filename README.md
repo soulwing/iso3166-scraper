@@ -38,8 +38,8 @@ creating tools like this really easy.
 Installation
 ------------
 
-This package is available for installation via PyPI and can therefore be 
-installed using *pip* as follows.
+This package is available for installation via [PyPI](https://pypi.org/project/iso3166-scraper/) 
+and can therefore be installed using *pip* as follows.
 
 ```bash
 python3 -m pip install iso3166-scraper
