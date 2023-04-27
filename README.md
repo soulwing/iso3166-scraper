@@ -1,6 +1,8 @@
 iso3166-scraper
 ===============
 
+[![PyPI version](https://badge.fury.io/py/iso3166-scraper.svg)](https://badge.fury.io/py/iso3166-scraper)
+
 A simple utility for scraping ISO-3166 country data from a [Wikipedia
 article](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) that 
 contains all current country codes, names, etc.
